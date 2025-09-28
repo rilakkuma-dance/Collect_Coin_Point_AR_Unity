@@ -1,2 +1,6 @@
-Used for an AR mobile application titled “Where Shall I Go?”. This project was part of my graduate research: Game-based Augmented Reality Mobile Application for Enhancing Primary School Students’ Collaborative Learning in English as a Foreign Language in Cambodia. The work was published at OzCHI 2025 (DOI: 10.1145/3764687.3769906
-).
+# Where Shall I Go?
+
+![App Screenshot](./assets/whereshallIgo.png)
+
+Game-based AR mobile app for enhancing collaborative English learning among Cambodian primary school students.  
+Published at OzCHI 2025 — [10.1145/3764687.3769906](https://doi.org/10.1145/3764687.3769906).
